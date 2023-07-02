@@ -3,20 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Angel's Land"
+  title: "Angel Chen | 陈斯翔"
   navbar:
-    background: primary
-    search: true
-    left:
-      - text: "Home"
-        file: index.qmd
-      - about.qmd 
-
+    right:
+      - about.qmd
+      - icon: github
+        href: https://username.github.io
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
 
 
 

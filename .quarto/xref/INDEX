@@ -4,5 +4,8 @@
   },
   "about.qmd": {
     "about.html": "c0c29a2f"
+  },
+  "projects/cat_or_dog.qmd": {
+    "cat_or_dog.html": "d5935e1d"
   }
 }

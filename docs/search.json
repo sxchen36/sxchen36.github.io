@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "AngelQuartoWebsite",
+    "title": "Angel | 陈斯翔",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "To-Be-Construct"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this blog\n记录生活的努力永远不会太晚。开此一博，暂为记录个人的兴趣爱好、技术心得、学习发现，还有有关人生思考的碎碎念。"
+  },
+  {
+    "objectID": "projects/cat_or_dog.html",
+    "href": "projects/cat_or_dog.html",
+    "title": "Angel Chen | 陈斯翔",
+    "section": "",
+    "text": "Child website"
   }
 ]

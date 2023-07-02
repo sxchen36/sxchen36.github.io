@@ -6,9 +6,14 @@ website:
   title: "Angel Chen | 陈斯翔"
   navbar:
     right:
+      - text: My Deep Learning Project
+        menu: 
+          - text: "cat or dot"
+            file: projects/cat_or_dog.qmd
+      - text: My blog
+        icon: newspaper
+        href: https://sxchen36.github.io/AngelQuartoBlog/
       - about.qmd
-      - icon: github
-        href: https://username.github.io
 format:
   html:
     theme: cosmo

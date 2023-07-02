@@ -1,5 +1,18 @@
 ---
 title: "About"
+image: profile.jpg
+about:
+  template: broadside
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sixiangchen/
+    - icon: github
+      text: Github
+      href: https://github.com/sxchen36
+
 ---
 
-About this site
+About this blog
+
+记录生活的努力永远不会太晚。开此一博，暂为记录个人的兴趣爱好、技术心得、学习发现，还有有关人生思考的碎碎念。

@@ -82,13 +82,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-my-deep-learning-project" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">My Deep Learning Project</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-my-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+      <i class="bi bi-flower1" role="img">
+</i> 
+ <span class="menu-text">My Projects</span>
     </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-my-deep-learning-project">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-my-projects">    
         <li>
     <a class="dropdown-item" href="../projects/cat_or_dog.html" rel="" target="">
- <span class="dropdown-text">cat or dot</span></a>
+ <span class="dropdown-text">Image Recognition</span></a>
   </li>  
     </ul>
   </li>
@@ -118,9 +120,25 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Child website</p>
+<section id="cat-or-dog" class="level1">
+<h1>Cat or dog</h1>
+<input id="photo" type="file">
+<div id="result">
+
+</div>
+<script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.33.1/gradio.js"></script>
+<p><gradio-app src="https://sxchen36-firstmlmodel.hf.space"></gradio-app></p>
+</section>
+<section id="learning-notes" class="level1">
+<h1>Learning Notes:</h1>
+<ul>
+<li>Referring to https://course.fast.ai/Lessons/lesson2.html However the api calling in the video is outdated.</li>
+<li>Referring to instructions provided by “Use via API” link in Huggingface app’s footnote</li>
+<li>More links from Google: https://gradio.app/sharing-your-app/#:~:text=The%20best%20part%20is%20that%20you%20can%20embed,page%2C%20in%20the%20%22Embed%20this%20Space%22%20dropdown%20option%3A</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

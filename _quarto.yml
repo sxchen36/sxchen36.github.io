@@ -6,9 +6,10 @@ website:
   title: "Angel Chen | 陈斯翔"
   navbar:
     right:
-      - text: My Deep Learning Project
+      - text: My Projects
+        icon: flower1
         menu: 
-          - text: "cat or dot"
+          - text: Image Recognition
             file: projects/cat_or_dog.qmd
       - text: My blog
         icon: newspaper

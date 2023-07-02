@@ -16,8 +16,8 @@
   {
     "objectID": "projects/cat_or_dog.html",
     "href": "projects/cat_or_dog.html",
-    "title": "Angel Chen | 陈斯翔",
+    "title": "Cat or dog",
     "section": "",
-    "text": "Child website"
+    "text": "Cat or dog\n\n\n\n\n\n\n\n\nLearning Notes:\n\nReferring to https://course.fast.ai/Lessons/lesson2.html However the api calling in the video is outdated.\nReferring to instructions provided by “Use via API” link in Huggingface app’s footnote\nMore links from Google: https://gradio.app/sharing-your-app/#:~:text=The%20best%20part%20is%20that%20you%20can%20embed,page%2C%20in%20the%20%22Embed%20this%20Space%22%20dropdown%20option%3A"
   }
 ]

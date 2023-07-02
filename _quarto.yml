@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Angel's Land"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - about.qmd 
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
